@@ -4,7 +4,7 @@
 
 The code in this repository ranks NFL skill positions (QB, RB, WR and TE) for fantasy in 2025. The codebase includes data from 2005 till 2024. We will use a neural network to help predict the rankings of players and several models to determine which is best suited for this type of application.
 
-###Features (SUBJECT TO CHANGE):
+### Features (SUBJECT TO CHANGE):
 
 - Player Stats (Rushing/Receiving and Passing Yards, Rushing/Receiving and Passing TDs, Receptions, Targets, Carries, Pass Attempts, Yards per Touch, Consistency - Std deviation of weekly half ppr ppg)
 - Age
