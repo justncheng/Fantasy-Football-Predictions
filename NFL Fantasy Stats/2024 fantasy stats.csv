@@ -1,4 +1,4 @@
-Player,Tm,FantPos,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Fmb,FL,TD,2PM,2PP,FantPt,PPR,DKPt,FDPt,VBD,PosRank,OvRank,Year
+Player,Tm,FantPos,Age,G,GS,Passing Cmp,Passing Att,Passing Yds,Passing TD,Passing Int,Rushing Att,Rushing Yds,Yards per Rushing Attempt,Rushing TD,Tgt,Rec,Receiving Yds,Yards per Reception,Receiving TD,Fmb,FL,Total TD,2PM,2PP,FantPt,PPR,DKPt,FDPt,VBD,PosRank,OvRank,Year
 Saquon Barkley,PHI,RB,27,16,16,0,0,0,0,0,345,2005,5.81,13,43,33,278,8.42,2,2,1,15,3,0,322,355.3,362.3,338.8,163,1,1,2024
 Derrick Henry,BAL,RB,30,17,17,0,0,0,0,0,325,1921,5.91,16,22,19,193,10.16,2,3,1,18,0,0,317,336.4,343.4,326.9,159,2,2,2024
 Jahmyr Gibbs,DET,RB,22,17,4,0,0,0,0,0,250,1412,5.65,16,63,52,517,9.94,4,1,1,20,0,0,311,362.9,369.9,336.9,153,3,3,2024

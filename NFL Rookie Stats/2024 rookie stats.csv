@@ -1,0 +1,78 @@
+Pick,Tm,Player,Pos,Age,To,wAV,DrAV,G,Cmp,Att,Yds,TD,Att,Yds,TD,Rec,Yds,TD,College/Univ,Year
+1,CHI,Caleb Williams,QB,22,2024,12,12,17,351,562,3541,20,81,489,0,0,0,0,USC,2024
+2,WAS,Jayden Daniels,QB,23,2024,20,20,17,331,480,3568,25,148,891,6,0,0,0,LSU,2024
+3,NWE,Drake Maye,QB,22,2024,8,8,13,225,338,2276,15,54,421,2,0,0,0,North Carolina,2024
+4,ARI,Marvin Harrison Jr.,WR,22,2024,8,8,17,0,0,0,0,0,0,0,62,885,8,Ohio St.,2024
+6,NYG,Malik Nabers,WR,21,2024,9,9,15,0,1,0,0,5,2,0,109,1204,7,LSU,2024
+8,ATL,Michael Penix,QB,24,2024,2,2,5,61,105,775,3,7,11,1,0,0,0,Washington,2024
+9,CHI,Rome Odunze,WR,22,2024,6,6,17,0,0,0,0,3,15,0,54,734,3,Washington,2024
+10,MIN,J.J. McCarthy,QB,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Michigan,2024
+12,DEN,Bo Nix,QB,24,2024,13,13,17,376,567,3775,29,92,430,4,1,2,1,Oregon,2024
+13,LVR,Brock Bowers,TE,21,2024,9,9,17,0,0,0,0,5,13,0,112,1194,5,Georgia,2024
+23,JAX,Brian Thomas,WR,21,2024,11,11,17,0,0,0,0,6,48,0,87,1282,10,LSU,2024
+28,KAN,Xavier Worthy,WR,21,2024,7,7,17,0,0,0,0,20,104,3,59,638,6,Texas,2024
+31,SFO,Ricky Pearsall,WR,23,2024,3,3,11,0,1,0,0,3,45,0,31,400,3,Florida,2024
+32,CAR,Xavier Legette,WR,23,2024,5,5,16,0,0,0,0,6,24,0,49,497,4,South Carolina,2024
+33,BUF,Keon Coleman,WR,21,2024,7,7,13,0,0,0,0,1,9,0,29,556,4,Florida St.,2024
+34,LAC,Ladd McConkey,WR,22,2024,11,11,16,0,0,0,0,0,0,0,82,1149,7,Georgia,2024
+37,NWE,Ja'Lynn Polk,WR,22,2024,1,1,15,0,0,0,0,1,0,0,12,87,2,Washington,2024
+46,CAR,Jonathon Brooks,RB,21,2024,0,0,3,0,0,0,0,9,22,0,3,23,0,Texas,2024
+52,IND,Adonai Mitchell,WR,21,2024,3,3,17,1,1,24,0,4,6,0,23,312,0,Texas,2024
+53,WAS,Ben Sinnott,TE,22,2024,0,0,17,0,0,0,0,0,0,0,5,28,1,Kansas St.,2024
+65,NYJ,Malachi Corley,WR,22,2024,0,0,9,0,0,0,0,2,26,0,3,16,0,Western Kentucky,2024
+66,ARI,Trey Benson,RB,21,2024,2,2,13,0,0,0,0,63,291,1,6,59,0,Florida St.,2024
+80,CIN,Jermaine Burton,WR,23,2024,1,1,14,0,0,0,0,0,0,0,4,107,0,Alabama,2024
+82,ARI,Tip Reiman,TE,22,2024,0,0,17,0,0,0,0,0,0,0,6,37,0,Illinois,2024
+83,LAR,Blake Corum,RB,23,2024,2,2,17,0,0,0,0,58,207,0,7,58,0,Michigan,2024
+84,PIT,Roman Wilson,WR,23,2024,0,0,1,0,0,0,0,0,0,0,0,0,0,Michigan,2024
+88,GNB,MarShawn Lloyd,RB,23,2024,0,0,1,0,0,0,0,6,15,0,1,3,0,USC,2024
+92,TAM,Jalen McMillan,WR,22,2024,5,5,13,0,0,0,0,4,43,0,37,461,8,Washington,2024
+100,WAS,Luke McCaffrey,WR,23,2024,2,2,17,0,0,0,0,0,0,0,18,168,0,Rice,2024
+101,CAR,Ja'Tavion Sanders,TE,21,2024,3,3,16,0,0,0,0,0,0,0,33,342,1,Texas,2024
+102,DEN,Troy Franklin,WR,21,2024,2,2,16,0,0,0,0,2,8,0,28,263,2,Oregon,2024
+107,NYG,Theo Johnson,TE,23,2024,2,2,12,0,0,0,0,0,0,0,29,331,1,Penn St.,2024
+110,NWE,Javon Baker,WR,22,2024,0,0,11,0,0,0,0,0,0,0,1,12,0,Central Florida,2024
+113,BAL,Devontez Walker,WR,23,2024,0,0,9,0,0,0,0,0,0,0,1,21,1,North Carolina,2024
+115,CIN,Erick All,TE,23,2024,1,1,9,0,0,0,0,0,0,0,20,158,0,Iowa,2024
+120,MIA,Jaylen Wright,RB,21,2024,2,2,15,0,0,0,0,68,249,0,3,8,0,Tennessee,2024
+121,SEA,AJ Barner,TE,22,2024,2,2,17,0,0,0,0,0,0,0,30,245,4,Michigan,2024
+123,HOU,Cade Stover,TE,24,2024,1,1,15,0,0,0,0,0,0,0,15,133,1,Ohio St.,2024
+125,TAM,Bucky Irving,RB,22,2024,12,12,17,0,0,0,0,207,1122,8,47,392,0,Oregon,2024
+127,PHI,Will Shipley,RB,22,2024,1,1,16,0,0,0,0,30,82,0,4,35,0,Clemson,2024
+128,BUF,Ray Davis,RB,24,2024,6,6,17,0,0,0,0,113,442,3,17,189,3,Kentucky,2024
+129,SFO,Isaac Guerendo,RB,24,2024,4,4,16,0,0,0,0,84,420,4,15,152,0,Louisville,2024
+131,KAN,Jared Wiley,TE,23,2024,0,0,7,0,0,0,0,0,0,0,1,7,0,TCU,2024
+134,NYJ,Braelon Allen,RB,20,2024,3,3,17,0,0,0,0,92,334,2,19,148,1,Wisconsin,2024
+135,SFO,Jacob Cowing,WR,23,2024,1,1,15,0,0,0,0,1,7,0,4,80,0,Arizona,2024
+142,IND,Anthony Gould,WR,23,2024,0,0,8,0,0,0,0,0,0,0,1,23,0,Oregon St.,2024
+147,DEN,Audric Estime,RB,21,2024,2,2,13,0,0,0,0,76,310,2,5,27,0,Notre Dame,2024
+150,NOR,Spencer Rattler,QB,23,2024,2,2,7,130,228,1317,4,18,146,0,0,0,0,South Carolina,2024
+152,PHI,Ainias Smith,WR,23,2024,1,1,7,0,0,0,0,2,6,0,7,41,1,Texas A&M,2024
+156,CLE,Jamari Thrash,WR,23,2024,0,0,9,0,0,0,0,0,0,0,3,22,0,Louisville,2024
+165,BAL,Rasheen Ali,RB,23,2024,0,0,6,0,0,0,0,10,31,0,0,0,0,Marshall,2024
+166,NYG,Tyrone Tracy Jr.,RB,24,2024,6,6,17,0,0,0,0,192,839,5,38,284,1,Purdue,2024
+167,JAX,Keilan Robinson,RB,24,2024,0,0,6,0,0,0,0,0,0,0,0,0,0,Texas,2024
+170,NOR,Bub Means,WR,23,2024,1,1,7,0,0,0,0,0,0,0,9,118,1,Pittsburgh,2024
+171,NYJ,Jordan Travis,QB,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Florida St.,2024
+173,NYJ,Isaiah Davis,RB,22,2024,2,2,17,0,0,0,0,30,174,1,9,75,1,South Dakota St.,2024
+181,LAC,Kimani Vidal,RB,23,2024,2,2,10,0,0,0,0,43,155,0,5,62,1,Troy,2024
+182,TEN,Jha'Quan Jackson,WR,24,2024,0,0,12,0,0,0,0,1,-5,0,1,8,0,Tulane,2024
+184,MIA,Malik Washington,WR,23,2024,2,2,14,0,0,0,0,5,25,1,26,223,0,Virginia,2024
+185,PHI,Johnny Wilson,WR,23,2024,0,0,16,0,0,0,0,0,0,0,5,38,1,Florida St.,2024
+186,ATL,Jase McClellan,RB,22,2024,0,0,2,0,0,0,0,13,32,0,0,0,0,Alabama,2024
+187,ATL,Casey Washington,WR,23,2024,0,0,8,0,0,0,0,0,0,0,1,14,0,Illinois,2024
+191,ARI,Tejhaun Palmer,WR,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ala-Birmingham,2024
+193,NWE,Joe Milton,QB,24,2024,1,1,1,22,29,241,1,10,16,1,0,0,0,Tennessee,2024
+194,CIN,Tanner McLachlan,TE,25,2024,0,0,2,0,0,0,0,0,0,0,0,0,0,Arizona,2024
+205,HOU,Jawhar Jordan,RB,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Louisville,2024
+208,LVR,Dylan Laube,RB,24,2024,0,0,10,0,0,0,0,1,0,0,0,0,0,New Hampshire,2024
+213,LAR,Jordan Whittington,WR,23,2024,3,3,15,0,0,0,0,2,12,0,22,293,0,Texas,2024
+216,DAL,Ryan Flournoy,WR,24,2024,1,1,11,0,0,0,0,0,0,0,10,102,0,SE Missouri St.,2024
+218,BAL,Devin Leary,QB,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Kentucky,2024
+225,LAC,Brenden Rice,WR,22,2024,0,0,3,0,0,0,0,0,0,0,0,0,0,USC,2024
+231,NWE,Jaheim Bell,TE,23,2024,0,0,15,0,0,0,0,0,0,0,2,20,0,Florida St.,2024
+235,DEN,Devaughn Vele,WR,26,2024,4,4,13,0,0,0,0,0,0,0,41,475,3,Utah,2024
+241,MIA,Tahj Washington,WR,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,USC,2024
+245,GNB,Michael Pratt,QB,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tulane,2024
+246,TAM,Devin Culp,TE,24,2024,1,1,5,0,0,0,0,0,0,0,5,88,0,Washington,2024
+253,LAC,Cornelius Johnson,WR,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Michigan,2024

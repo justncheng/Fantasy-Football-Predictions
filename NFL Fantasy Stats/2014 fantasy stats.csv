@@ -1,4 +1,4 @@
-Player,Tm,FantPos,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Fmb,FL,TD,2PM,2PP,FantPt,PPR,DKPt,FDPt,VBD,PosRank,OvRank,Year
+Player,Tm,FantPos,Age,G,GS,Passing Cmp,Passing Att,Passing Yds,Passing TD,Passing Int,Rushing Att,Rushing Yds,Yards per Rushing Attempt,Rushing TD,Tgt,Rec,Receiving Yds,Yards per Reception,Receiving TD,Fmb,FL,Total TD,2PM,2PP,FantPt,PPR,DKPt,FDPt,VBD,PosRank,OvRank,Year
 DeMarco Murray,DAL,RB,26,16,16,0,0,0,0,0,392,1845,4.71,13,64,57,416,7.30,0,5,5,13,0,0,294,351.1,362.1,322.6,173,1,1,2014
 Le'Veon Bell,PIT,RB,22,16,16,0,0,0,0,0,290,1361,4.69,8,105,83,854,10.29,3,0,0,11,0,0,288,370.5,376.5,329.0,167,2,2,2014
 Marshawn Lynch,SEA,RB,28,16,14,0,0,0,0,0,280,1306,4.66,13,48,37,367,9.92,4,3,2,17,0,0,265,302.3,310.3,283.8,144,3,3,2014

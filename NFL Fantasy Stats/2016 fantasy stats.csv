@@ -1,4 +1,4 @@
-Player,Tm,FantPos,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Fmb,FL,TD,2PM,2PP,FantPt,PPR,DKPt,FDPt,VBD,PosRank,OvRank,Year
+Player,Tm,FantPos,Age,G,GS,Passing Cmp,Passing Att,Passing Yds,Passing TD,Passing Int,Rushing Att,Rushing Yds,Yards per Rushing Attempt,Rushing TD,Tgt,Rec,Receiving Yds,Yards per Reception,Receiving TD,Fmb,FL,Total TD,2PM,2PP,FantPt,PPR,DKPt,FDPt,VBD,PosRank,OvRank,Year
 David Johnson,ARI,RB,25,16,16,0,0,0,0,0,293,1239,4.23,16,120,80,879,10.99,4,5,3,20,1,0,328,407.8,416.8,367.8,191,1,1,2016
 Ezekiel Elliott,DAL,RB,21,15,15,0,0,0,0,0,322,1631,5.07,15,39,32,363,11.34,1,5,1,16,0,0,293,325.4,332.4,309.4,156,2,2,2016
 Aaron Rodgers,GNB,QB,33,16,16,401,610,4428,40,7,67,369,5.51,4,0,0,0,0,0,8,4,4,1,1,380,380.0,397.0,387.0,119,1,3,2016

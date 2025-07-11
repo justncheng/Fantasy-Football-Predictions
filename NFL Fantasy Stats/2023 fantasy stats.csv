@@ -1,4 +1,4 @@
-Player,Tm,FantPos,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Fmb,FL,TD,2PM,2PP,FantPt,PPR,DKPt,FDPt,VBD,PosRank,OvRank,Year
+Player,Tm,FantPos,Age,G,GS,Passing Cmp,Passing Att,Passing Yds,Passing TD,Passing Int,Rushing Att,Rushing Yds,Yards per Rushing Attempt,Rushing TD,Tgt,Rec,Receiving Yds,Yards per Reception,Receiving TD,Fmb,FL,Total TD,2PM,2PP,FantPt,PPR,DKPt,FDPt,VBD,PosRank,OvRank,Year
 Christian McCaffrey,SFO,RB,27,16,16,0,0,0,0,0,272,1459,5.36,14,83,67,564,8.42,7,3,2,21,0,0,324,391.3,399.3,357.8,157,1,1,2023
 CeeDee Lamb,DAL,WR,24,17,17,0,0,0,0,0,14,113,8.07,2,181,135,1749,12.96,12,3,2,14,1,0,268,403.2,411.2,335.7,131,1,2,2023
 Josh Allen,BUF,QB,27,17,17,385,579,4306,29,18,111,524,4.72,15,0,0,0,0,0,7,4,15,0,3,393,392.6,420.6,410.6,122,1,3,2023

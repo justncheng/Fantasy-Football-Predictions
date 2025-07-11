@@ -1,4 +1,4 @@
-Player,Tm,FantPos,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Fmb,FL,TD,2PM,2PP,FantPt,PPR,DKPt,FDPt,VBD,PosRank,OvRank,Year
+Player,Tm,FantPos,Age,G,GS,Passing Cmp,Passing Att,Passing Yds,Passing TD,Passing Int,Rushing Att,Rushing Yds,Yards per Rushing Attempt,Rushing TD,Tgt,Rec,Receiving Yds,Yards per Reception,Receiving TD,Fmb,FL,Total TD,2PM,2PP,FantPt,PPR,DKPt,FDPt,VBD,PosRank,OvRank,Year
 Todd Gurley,LAR,RB,23,15,15,0,0,0,0,0,279,1305,4.68,13,87,64,788,12.31,6,5,2,19,0,0,319,383.3,391.3,351.3,192,1,1,2017
 Le'Veon Bell,PIT,RB,25,15,15,0,0,0,0,0,321,1291,4.02,9,106,85,655,7.71,2,3,2,11,0,0,257,341.6,349.6,299.1,130,2,2,2017
 Kareem Hunt,KAN,RB,22,16,16,0,0,0,0,0,272,1327,4.88,8,63,53,455,8.58,3,1,1,11,0,0,242,295.2,302.2,268.7,115,3,3,2017

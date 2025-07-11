@@ -1,4 +1,4 @@
-Player,Tm,FantPos,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Fmb,FL,TD,2PM,2PP,FantPt,PPR,DKPt,FDPt,VBD,PosRank,OvRank,Year
+Player,Tm,FantPos,Age,G,GS,Passing Cmp,Passing Att,Passing Yds,Passing TD,Passing Int,Rushing Att,Rushing Yds,Yards per Rushing Attempt,Rushing TD,Tgt,Rec,Receiving Yds,Yards per Reception,Receiving TD,Fmb,FL,Total TD,2PM,2PP,FantPt,PPR,DKPt,FDPt,VBD,PosRank,OvRank,Year
 Todd Gurley,LAR,RB,24,14,14,0,0,0,0,0,256,1251,4.89,17,81,59,580,9.83,4,1,1,21,3,0,313,372.1,379.1,342.6,181,1,1,2018
 Saquon Barkley,NYG,RB,21,16,16,0,0,0,0,0,261,1307,5.01,11,121,91,721,7.92,4,0,0,15,1,0,295,385.8,391.8,340.3,163,2,2,2018
 Christian McCaffrey,CAR,RB,22,16,16,1,1,50,1,0,219,1098,5.01,7,124,107,867,8.10,6,4,1,13,0,0,279,385.5,392.5,332.0,146,3,3,2018

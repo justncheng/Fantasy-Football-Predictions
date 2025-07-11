@@ -1,4 +1,4 @@
-Player,Tm,FantPos,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Fmb,FL,TD,2PM,2PP,FantPt,PPR,DKPt,FDPt,VBD,PosRank,OvRank,Year
+Player,Tm,FantPos,Age,G,GS,Passing Cmp,Passing Att,Passing Yds,Passing TD,Passing Int,Rushing Att,Rushing Yds,Yards per Rushing Attempt,Rushing TD,Tgt,Rec,Receiving Yds,Yards per Reception,Receiving TD,Fmb,FL,Total TD,2PM,2PP,FantPt,PPR,DKPt,FDPt,VBD,PosRank,OvRank,Year
 Christian McCaffrey,CAR,RB,23,16,16,0,2,0,0,0,287,1387,4.83,15,142,116,1005,8.66,4,1,0,19,1,0,355,471.2,477.2,413.2,215,1,1,2019
 Lamar Jackson,BAL,QB,22,15,15,265,401,3127,36,6,176,1206,6.85,7,0,0,0,0,0,9,2,7,0,0,416,415.7,429.7,421.7,152,1,2,2019
 Derrick Henry,TEN,RB,25,15,15,0,0,0,0,0,303,1540,5.08,16,24,18,206,11.44,2,5,3,18,0,0,277,294.6,303.6,285.6,136,2,3,2019

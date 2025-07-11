@@ -1,4 +1,4 @@
-Player,Tm,FantPos,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Fmb,FL,TD,2PM,2PP,FantPt,PPR,DKPt,FDPt,VBD,PosRank,OvRank,Year
+Player,Tm,FantPos,Age,G,GS,Passing Cmp,Passing Att,Passing Yds,Passing TD,Passing Int,Rushing Att,Rushing Yds,Yards per Rushing Attempt,Rushing TD,Tgt,Rec,Receiving Yds,Yards per Reception,Receiving TD,Fmb,FL,Total TD,2PM,2PP,FantPt,PPR,DKPt,FDPt,VBD,PosRank,OvRank,Year
 Antonio Brown,PIT,WR,27,16,16,0,0,0,0,0,3,28,9.33,0,193,136,1834,13.49,10,3,2,11,2,0,252,388.2,393.2,320.2,125,1,1,2015
 Devonta Freeman,ATL,RB,23,15,13,0,0,0,0,0,265,1056,3.98,11,97,73,578,7.92,3,3,2,14,0,0,243,316.4,324.4,279.9,120,1,2,2015
 Julio Jones,ATL,WR,26,16,16,0,0,0,0,0,0,0,0,0,203,136,1871,13.76,8,3,1,9,0,0,239,375.1,379.1,307.1,111,2,3,2015
