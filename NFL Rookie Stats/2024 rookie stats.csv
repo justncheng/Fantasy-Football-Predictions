@@ -1,4 +1,4 @@
-Pick,Tm,Player,Pos,Age,To,wAV,DrAV,G,Cmp,Att,Yds,TD,Att,Yds,TD,Rec,Yds,TD,College/Univ,Year
+Pick,Tm,Player,Pos,Age,To,wAV,DrAV,G,Passing Cmp,Passing Att,Passing Yds,Passing TD,Rushing Att,Rushing Yds,Rushing TD,Rec,Receiving Yds,Receiving TD,College/Univ,Year
 1,CHI,Caleb Williams,QB,22,2024,12,12,17,351,562,3541,20,81,489,0,0,0,0,USC,2024
 2,WAS,Jayden Daniels,QB,23,2024,20,20,17,331,480,3568,25,148,891,6,0,0,0,LSU,2024
 3,NWE,Drake Maye,QB,22,2024,8,8,13,225,338,2276,15,54,421,2,0,0,0,North Carolina,2024

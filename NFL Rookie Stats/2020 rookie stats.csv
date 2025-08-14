@@ -1,4 +1,4 @@
-Pick,Tm,Player,Pos,Age,To,wAV,DrAV,G,Cmp,Att,Yds,TD,Att,Yds,TD,Rec,Yds,TD,College/Univ,Year
+Pick,Tm,Player,Pos,Age,To,wAV,DrAV,G,Passing Cmp,Passing Att,Passing Yds,Passing TD,Rushing Att,Rushing Yds,Rushing TD,Rec,Receiving Yds,Receiving TD,College/Univ,Year
 1,CIN,Joe Burrow,QB,23,2024,58,58,69,1748,2547,19001,140,225,806,12,0,0,0,LSU,2020
 5,MIA,Tua Tagovailoa,QB,22,2024,45,45,64,1387,2037,15506,100,153,430,6,0,0,0,Alabama,2020
 6,LAC,Justin Herbert,QB,22,2024,64,64,79,1945,2926,21093,137,293,1217,13,3,0,0,Oregon,2020

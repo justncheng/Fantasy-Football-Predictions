@@ -1,4 +1,4 @@
-Pick,Tm,Player,Pos,Age,To,wAV,DrAV,G,Cmp,Att,Yds,TD,Att,Yds,TD,Rec,Yds,TD,College/Univ,Year
+Pick,Tm,Player,Pos,Age,To,wAV,DrAV,G,Passing Cmp,Passing Att,Passing Yds,Passing TD,Rushing Att,Rushing Yds,Rushing TD,Rec,Receiving Yds,Receiving TD,College/Univ,Year
 1,JAX,Trevor Lawrence,QB,21,2024,39,39,60,1288,2034,13815,69,231,1083,14,0,-5,0,Clemson,2021
 2,NYJ,Zach Wilson,QB,22,2023,13,13,34,566,993,6293,23,93,498,5,1,2,1,BYU,2021
 3,SFO,Trey Lance,QB,21,2024,5,4,12,81,143,1063,5,65,276,1,0,0,0,North Dakota St.,2021

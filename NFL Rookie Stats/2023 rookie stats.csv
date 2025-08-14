@@ -1,4 +1,4 @@
-Pick,Tm,Player,Pos,Age,To,wAV,DrAV,G,Cmp,Att,Yds,TD,Att,Yds,TD,Rec,Yds,TD,College/Univ,Year
+Pick,Tm,Player,Pos,Age,To,wAV,DrAV,G,Passing Cmp,Passing Att,Passing Yds,Passing TD,Rushing Att,Rushing Yds,Rushing TD,Rec,Receiving Yds,Receiving TD,College/Univ,Year
 1,CAR,Bryce Young,QB,22,2024,14,14,30,549,911,5280,26,82,502,6,0,0,0,Alabama,2023
 2,HOU,C.J. Stroud,QB,21,2024,24,24,32,655,1031,7835,43,91,400,3,1,0,0,Ohio St.,2023
 4,IND,Anthony Richardson,QB,21,2024,9,9,15,176,348,2391,11,111,635,10,1,-1,0,Florida,2023
