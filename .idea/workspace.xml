@@ -5,18 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="269c2f32-7778-4d6e-afcc-007fb970501c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Model/trained_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/combine_fantasy_stats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/feature_engineering.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NFL Rookie Stats/2016 rookie stats.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NFL Rookie Stats/2017 rookie stats.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NFL Rookie Stats/2018 rookie stats.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NFL Rookie Stats/2019 rookie stats.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NFL Rookie Stats/2020 rookie stats.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NFL Rookie Stats/2020 rookie stats.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NFL Rookie Stats/2021 rookie stats.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NFL Rookie Stats/2021 rookie stats.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NFL Rookie Stats/2022 rookie stats.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NFL Rookie Stats/2022 rookie stats.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NFL Rookie Stats/2023 rookie stats.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NFL Rookie Stats/2023 rookie stats.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NFL Rookie Stats/2024 rookie stats.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NFL Rookie Stats/2024 rookie stats.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/Rookie Data Fetching.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/Rookie Data Fetching.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/CFB Data Fetching.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/cfb_data_fetch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/Data Visualization.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/data_visualization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/NFL Fantasy Data Fetching.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/nfl_fantasy_data_fetch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/Rookie Data Fetching.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/rookie_data_fetch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,26 +51,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.CFB Data Fetching.executor&quot;: &quot;Run&quot;,
-    &quot;Python.College Football Data Fetching.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Data Fetching.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Data Visualization.executor&quot;: &quot;Run&quot;,
-    &quot;Python.NFL Fantasy Data Fetching.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Rookie Data Fetching.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.CFB Data Fetching.executor": "Run",
+    "Python.College Football Data Fetching.executor": "Run",
+    "Python.Data Fetching.executor": "Run",
+    "Python.Data Visualization.executor": "Run",
+    "Python.NFL Fantasy Data Fetching.executor": "Run",
+    "Python.Rookie Data Fetching.executor": "Run",
+    "Python.combine_fantasy_stats.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="College Football Data Fetching" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FantasyFootball" />
@@ -126,7 +124,10 @@
       <workItem from="1752176401881" duration="3437000" />
       <workItem from="1752759301601" duration="29335000" />
       <workItem from="1753562381157" duration="63827000" />
-      <workItem from="1755180311446" duration="15028000" />
+      <workItem from="1755180311446" duration="18362000" />
+      <workItem from="1755306012031" duration="1233000" />
+      <workItem from="1755529843588" duration="4136000" />
+      <workItem from="1755786917879" duration="10679000" />
     </task>
     <servers />
   </component>
@@ -135,10 +136,11 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/FantasyFootball$CFB_Data_Fetching.coverage" NAME="CFB Data Fetching Coverage Results" MODIFIED="1754583520080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scripts" />
-    <SUITE FILE_PATH="coverage/FantasyFootball$College_Football_Data_Fetching.coverage" NAME="College Football Data Fetching Coverage Results" MODIFIED="1755180339078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scripts" />
+    <SUITE FILE_PATH="coverage/FantasyFootball$College_Football_Data_Fetching.coverage" NAME="College Football Data Fetching Coverage Results" MODIFIED="1755792746011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scripts" />
     <SUITE FILE_PATH="coverage/FantasyFootball$Data_Fetching.coverage" NAME="Data Fetching Coverage Results" MODIFIED="1751914402184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scripts" />
     <SUITE FILE_PATH="coverage/FantasyFootball$Data_Visualization.coverage" NAME="Data Visualization Coverage Results" MODIFIED="1755192758472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scripts" />
     <SUITE FILE_PATH="coverage/FantasyFootball$Rookie_Data_Fetching.coverage" NAME="Rookie Data Fetching Coverage Results" MODIFIED="1753722878438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scripts" />
+    <SUITE FILE_PATH="coverage/FantasyFootball$combine_fantasy_stats.coverage" NAME="combine_fantasy_stats Coverage Results" MODIFIED="1755805591112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scripts" />
     <SUITE FILE_PATH="coverage/FantasyFootball$NFL_Fantasy_Data_Fetching.coverage" NAME="NFL Fantasy Data Fetching Coverage Results" MODIFIED="1754941348111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scripts" />
   </component>
 </project>
