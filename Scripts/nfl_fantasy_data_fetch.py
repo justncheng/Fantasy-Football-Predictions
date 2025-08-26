@@ -25,7 +25,7 @@ def fantasy_player_csv(year):
         'Rushing Att', 'Rushing Yds', 'Yards per Rushing Attempt', 'Rushing TD',
         'Tgt', 'Rec', 'Receiving Yds', 'Yards per Reception', 'Receiving TD',
         'Fmb', 'FL',
-        'Total TD', '2PM', '2PP', 'FantPt', 'PPR', 'DKPt', 'FDPt', 'VBD', 'PosRank', 'OvRank'
+        'Total TD', '2PM', '2PP', 'FantPt', 'PPR', 'DKPt', 'hPPR', 'VBD', 'PosRank', 'OvRank'
     ]
 
     stats = pd.DataFrame(player_stats, columns=renamed_headers)

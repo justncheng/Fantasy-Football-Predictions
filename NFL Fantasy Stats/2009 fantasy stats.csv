@@ -1,4 +1,4 @@
-Player,Tm,FantPos,Age,G,GS,Passing Cmp,Passing Att,Passing Yds,Passing TD,Passing Int,Rushing Att,Rushing Yds,Yards per Rushing Attempt,Rushing TD,Tgt,Rec,Receiving Yds,Yards per Reception,Receiving TD,Fmb,FL,Total TD,2PM,2PP,FantPt,PPR,DKPt,FDPt,VBD,PosRank,OvRank,Year
+Player,Tm,FantPos,Age,G,GS,Passing Cmp,Passing Att,Passing Yds,Passing TD,Passing Int,Rushing Att,Rushing Yds,Yards per Rushing Attempt,Rushing TD,Tgt,Rec,Receiving Yds,Yards per Reception,Receiving TD,Fmb,FL,Total TD,2PM,2PP,FantPt,PPR,DKPt,hPPR,VBD,PosRank,OvRank,Year
 Chris Johnson,TEN,RB,24,16,16,0,1,0,0,0,358,2006,5.60,14,71,50,503,10.06,2,3,3,16,1,0,343,392.9,401.9,367.9,197,1,1,2009
 Adrian Peterson,MIN,RB,24,16,15,0,0,0,0,0,314,1383,4.40,18,57,43,436,10.14,0,7,6,18,0,0,278,320.9,332.9,299.4,132,2,2,2009
 Maurice Jones-Drew,JAX,RB,24,16,16,0,0,0,0,0,312,1391,4.46,15,71,53,374,7.06,1,2,1,16,0,0,271,323.5,330.5,297.0,125,3,3,2009

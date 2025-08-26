@@ -1,4 +1,4 @@
-Player,Tm,FantPos,Age,G,GS,Passing Cmp,Passing Att,Passing Yds,Passing TD,Passing Int,Rushing Att,Rushing Yds,Yards per Rushing Attempt,Rushing TD,Tgt,Rec,Receiving Yds,Yards per Reception,Receiving TD,Fmb,FL,Total TD,2PM,2PP,FantPt,PPR,DKPt,FDPt,VBD,PosRank,OvRank,Year
+Player,Tm,FantPos,Age,G,GS,Passing Cmp,Passing Att,Passing Yds,Passing TD,Passing Int,Rushing Att,Rushing Yds,Yards per Rushing Attempt,Rushing TD,Tgt,Rec,Receiving Yds,Yards per Reception,Receiving TD,Fmb,FL,Total TD,2PM,2PP,FantPt,PPR,DKPt,hPPR,VBD,PosRank,OvRank,Year
 Arian Foster,HOU,RB,24,16,13,0,0,0,0,0,327,1616,4.94,16,84,66,604,9.15,2,3,2,18,0,0,326,392.0,400.0,359.0,190,1,1,2010
 Adrian Peterson,MIN,RB,25,15,15,0,0,0,0,0,283,1298,4.59,12,50,36,341,9.47,1,1,1,13,0,0,240,275.9,282.9,257.9,104,2,2,2010
 Jamaal Charles,KAN,RB,24,16,6,0,0,0,0,0,230,1467,6.38,5,64,45,468,10.40,3,3,2,8,0,0,238,282.5,290.5,260.0,102,3,3,2010

@@ -23,9 +23,10 @@ for fp in files:
 
 combined = pd.concat(dfs, ignore_index=True, sort=False)
 
-# Optional: drop exact duplicates (use a subset of columns if you prefer)
 combined = combined.drop_duplicates()
 
-# Save at the project root (NOT in Scripts/)
+# Removed DKPt column
+combined = combined.drop(columns=['DKPt'], errors='ignore')
+
 combined.to_csv(out_path, index=False)
 print(f"Combined {len(files)} files → {out_path}")

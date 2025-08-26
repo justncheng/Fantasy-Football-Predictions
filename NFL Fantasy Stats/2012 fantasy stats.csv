@@ -1,4 +1,4 @@
-Player,Tm,FantPos,Age,G,GS,Passing Cmp,Passing Att,Passing Yds,Passing TD,Passing Int,Rushing Att,Rushing Yds,Yards per Rushing Attempt,Rushing TD,Tgt,Rec,Receiving Yds,Yards per Reception,Receiving TD,Fmb,FL,Total TD,2PM,2PP,FantPt,PPR,DKPt,FDPt,VBD,PosRank,OvRank,Year
+Player,Tm,FantPos,Age,G,GS,Passing Cmp,Passing Att,Passing Yds,Passing TD,Passing Int,Rushing Att,Rushing Yds,Yards per Rushing Attempt,Rushing TD,Tgt,Rec,Receiving Yds,Yards per Reception,Receiving TD,Fmb,FL,Total TD,2PM,2PP,FantPt,PPR,DKPt,hPPR,VBD,PosRank,OvRank,Year
 Adrian Peterson,MIN,RB,27,16,16,0,0,0,0,0,348,2097,6.03,12,51,40,217,5.43,1,4,2,13,1,0,307,347.4,355.4,327.4,191,1,1,2012
 Doug Martin,TAM,RB,23,16,16,0,0,0,0,0,319,1454,4.56,11,70,49,472,9.63,1,1,1,12,0,0,263,311.6,318.6,287.1,146,2,2,2012
 Arian Foster,HOU,RB,26,16,16,0,0,0,0,0,351,1424,4.06,15,58,40,217,5.43,2,3,2,17,0,0,262,302.1,310.1,282.1,145,3,3,2012
