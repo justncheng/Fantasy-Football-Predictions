@@ -69,7 +69,7 @@ def college_football_data(year):
 
 # Create output directory if needed
 script_dir = os.path.dirname(os.path.abspath(__file__))
-project_root = os.path.dirname(script_dir)
+project_root = os.path.dirname(os.path.dirname(script_dir))
 output_dir = os.path.join(project_root, 'NFL Rookie Stats')
 os.makedirs(output_dir, exist_ok=True)
 

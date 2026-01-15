@@ -4,7 +4,7 @@ import csv
 import pandas as pd
 import seaborn as sns
 
-stats = pd.read_csv('../NFL Fantasy Stats/2024 fantasy stats.csv')
+stats = pd.read_csv('../../NFL Fantasy Stats/2024 fantasy stats.csv')
 # Keep only X number of rows
 stats = stats.head(251)
 
