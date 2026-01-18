@@ -2,8 +2,21 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-from Features.feature_engineering import preprocess_data, rolling_average
+from src.features.feature_engineering import preprocess_data, rolling_average
 
+'''
+This file prepares the dataset correctly and safely, completing the following steps:
+
+1. Loads the merged season-level dataset from merged_fantasy_stats_2005_2024.csv
+2. Adds per-game features from feature_engineering.py
+3. Adds rolling average features from feature_engineering.py over the last 2-3 seasons
+4. Creates a stable player ID by combining the Player (player's name) and FantPos (their position)
+5. Adds lag features
+6. Construct prediction targets (2018 row predicts 2019, 2023 row predicts 2024, etc.)
+7. Defines train/validation/test splits
+8. Outputs a single machine learning ready table
+
+'''
 
 def add_player_id(df: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()

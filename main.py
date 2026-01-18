@@ -1,7 +1,7 @@
 from pathlib import Path
 import pandas as pd
-from Features.feature_engineering import preprocess_data
-from Features.feature_engineering import rolling_average
+from src.features.feature_engineering import preprocess_data
+from src.features.feature_engineering import rolling_average
 
 DATA_PATH = Path("NFL Combined Fantasy Stats") / "merged_fantasy_stats_2005_2024.csv"
 OUT_PATH  = Path("data") / "processed" / "features_only.csv"
