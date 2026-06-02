@@ -3,8 +3,10 @@ import pandas as pd
 from src.features.feature_engineering import preprocess_data
 from src.features.feature_engineering import rolling_average
 
-DATA_PATH = Path("NFL Combined Fantasy Stats") / "merged_fantasy_stats_2005_2024.csv"
-OUT_PATH  = Path("data") / "processed" / "features_only.csv"
+BASE_DIR = Path(__file__).resolve().parent
+
+DATA_PATH = BASE_DIR / "data" / "processed"  / "merged_fantasy_stats_2005_2024.csv"
+OUT_PATH  = BASE_DIR / "data" / "processed" / "features_only.csv"
 
 df = pd.read_csv(DATA_PATH)
 df = preprocess_data(df)

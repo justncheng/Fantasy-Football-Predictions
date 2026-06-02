@@ -17,3 +17,23 @@ The code in this repository ranks NFL skill positions (QB, RB, WR and TE) for fa
 ## Rookies:
 
 Rookie rankings will be a challenge, as they have not played a snap in the NFL, and we will therefore need to make some predictions for rookie stats. Using college stats from the previous 5-10 years, and matching our 2025 rookies with comparable rookie seasons from prior years, we will hopefully be able to place the rookies in the rankings.
+
+## Output:
+
+            model val_MAE  test_MAE
+            ridge 36.860573 38.773008
+              hgb 36.886776 38.172230
+    baseline_hPPR 38.000321 39.340308
+              mlp 45.712029 48.158688
+
+Best model: ridge
+
+Test Spearman (overall): 0.7364009670299284
+
+Baseline: Current hPPR is the same as last year's hPPR
+
+Ridge: Linear model with regularization (Linear Model)
+
+Hist Gradient Boosting Regressor: Decision trees to sequentially correct errors (Tree)
+
+MLP Regressor: MLP to sequentially correct errors (Neural Network)
